@@ -1,0 +1,28 @@
+﻿  RayLibCleen.cpp
+c:\users\marc.sanchez.2\desktop\raylibcleen\raylibcleen\raylibcleen.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marc.sanchez.2\desktop\raylibcleen\raylibcleen\raylibcleen.cpp(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\marc.sanchez.2\desktop\raylibcleen\raylibcleen\raylibcleen.cpp(71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\marc.sanchez.2\desktop\raylibcleen\raylibcleen\raylibcleen.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\marc.sanchez.2\desktop\raylibcleen\raylibcleen\raylibcleen.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\marc.sanchez.2\desktop\raylibcleen\raylibcleen\raylibcleen.cpp(74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(context.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(init.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(input.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(input.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(monitor.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(vulkan.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(vulkan.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(window.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_init.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_joystick.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_monitor.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_time.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_time.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_thread.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_window.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(wgl_context.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(egl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(egl_context.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(osmesa_context.obj)' or at 'C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\glfw_objlib.pdb'; linking object as if no debug info
+  RayLibCleen.vcxproj -> C:\Users\marc.sanchez.2\Desktop\RayLibCleen\Debug\RayLibCleen.exe
